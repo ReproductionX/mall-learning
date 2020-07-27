@@ -127,6 +127,7 @@ mall学习教程，架构、业务、技术要点全方位解析。mall项目（
 - [Docker环境下秒建Redis集群，连SpringBoot也整上了！](https://juejin.im/post/5e81fd1ff265da47e84e5e2c)
 - [Elasticsearch快速入门，掌握这些刚刚好！](https://juejin.im/post/5e8c7d65518825736512d097)
 - [MongoDB快速入门，掌握这些刚刚好！](https://juejin.im/post/5eb4043cf265da7bf5368276)
+- [Github标星34K+Star，这款开源项目助你秒建Git服务！](https://juejin.im/post/5ecd12076fb9a0479958376b)
 
 ## 工具篇
 > 一些常用开发工具的使用
@@ -142,6 +143,7 @@ mall学习教程，架构、业务、技术要点全方位解析。mall项目（
 - [盘点下我用的顺手的那些工具！](https://juejin.im/post/5e5f99c251882549281bfb09)
 - [我用起来顺手的数据库设计工具，这次推荐给大家！](https://juejin.im/post/5ea6d2725188256da20e60ee)
 - [我常用的IDEA插件大公开，个个是精品！](https://juejin.im/post/5eba9a5bf265da7bca50010c)
+- [IDEA同款数据库管理工具，提示太全了，用起来贼香！](https://juejin.im/post/5ed4f2446fb9a047d5645a2b)
 
 
 ## 公众号

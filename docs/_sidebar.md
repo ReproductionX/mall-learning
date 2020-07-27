@@ -93,6 +93,7 @@
   * [Docker环境下秒建Redis集群，连SpringBoot也整上了！](reference/redis_cluster.md)
   * [Elasticsearch快速入门，掌握这些刚刚好！](reference/elasticsearch_start.md)
   * [MongoDB快速入门，掌握这些刚刚好！](reference/mongodb_start.md)
+  * [Github标星34K+Star，这款开源项目助你秒建Git服务！](reference/gogs_start.md)
 
 * 工具篇
   * [IDEA常用设置及推荐插件](reference/idea.md)
@@ -106,3 +107,4 @@
   * [盘点下我用的顺手的那些工具！](reference/my_tools.md)
   * [我用起来顺手的数据库设计工具，这次推荐给大家！](reference/navicat_designer.md)
   * [我常用的IDEA插件大公开，个个是精品！](reference/idea_plugins.md)
+  * [IDEA同款数据库管理工具，提示太全了，用起来贼香！](reference/datagrip_start.md)
